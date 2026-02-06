@@ -61767,12 +61767,12 @@ m=A.k(B.jm,B.y4,p*0.12)
 m.toString
 l=B.c.ae(76.5)
 k=t.o5
-p=A.a9S(B.KW,B.bd,A.h_(e,e,m,e,e,e,e,e,e,e,e,48-p*2,e,e,B.av,e,e,!0,e,e,e,e,e,A.d([new A.fn(A.bD(l,B.j.M()>>>16&255,B.j.M()>>>8&255,B.j.M()&255),B.DG,10)],k),e,e))
+p=A.a9S(B.KY,B.bd,A.h_(e,e,m,e,e,e,e,e,e,e,e,48-p*2,e,e,B.av,e,e,!0,e,e,e,e,e,A.d([new A.fn(A.bD(l,B.j.M()>>>16&255,B.j.M()>>>8&255,B.j.M()&255),B.DG,10)],k),e,e))
 m=f.d
 j=A.k(B.jt,B.xo,m*0.12)
 j.toString
 i=f.d>3?B.av:B.v
-i=A.d([p,B.uA,A.a9S(B.KY,B.bd,A.h_(e,e,j,e,e,e,e,e,e,e,e,36-m*1.5,e,e,i,e,e,!0,e,e,e,e,e,A.d([new A.fn(A.bD(51,B.j.M()>>>16&255,B.j.M()>>>8&255,B.j.M()&255),B.ho,8)],k),e,e)),B.ey],q)
+i=A.d([p,B.uA,A.a9S(B.KZ,B.bd,A.h_(e,e,j,e,e,e,e,e,e,e,e,36-m*1.5,e,e,i,e,e,!0,e,e,e,e,e,A.d([new A.fn(A.bD(51,B.j.M()>>>16&255,B.j.M()>>>8&255,B.j.M()&255),B.ho,8)],k),e,e)),B.ey],q)
 p=f.d
 if(p>0){m=f.at[p]
 j=p>4?B.av:B.v
@@ -61892,7 +61892,7 @@ s=B.c.ei(n.a.d,0,1)
 return A.aaW(q,A.af7(A.vn("\ud83d\udc97",A.h_(q,q,q,q,q,q,q,q,q,q,q,30+n.a.c*5,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q),s),q,q,o.a.a*(m/100),q,p.a.b*r,q)},
 $S:410}
 A.F5.prototype={
-a_(a){return A.aa1(A.d([A.aei("assets/images/happy.png",B.iA,200,200),A.aq4(null,15,null),B.KV,B.uA,B.KZ,B.ey,B.KX],t.nA),B.e2)}}
+a_(a){return A.aa1(A.d([A.aei("assets/images/happy.png",B.iA,200,200),A.aq4(null,15,null),B.KW,B.uA,B.KX,B.ey,B.KV],t.nA),B.e2)}}
 A.yB.prototype={
 l(){var s=this,r=s.cg$
 if(r!=null)r.L(0,s.gnl())
@@ -66536,15 +66536,15 @@ B.JU=new A.q(!0,B.z,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.K8=new A.q(!0,B.j,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.HM=new A.q(!0,B.j,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.KU=new A.du(B.J8,B.Ik,B.J9,B.Jz,B.I1,B.I8,B.IC,B.Jr,B.IN,B.JY,B.HD,B.HT,B.JU,B.K8,B.HM)
+B.Kz=new A.q(!0,B.jt,null,null,null,null,36,B.av,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.KV=new A.iU("Happy Valentine's Day!",null,B.Kz,null,null)
 B.ya=new A.x(1,1,0.0784313725490196,0.5764705882352941,B.f)
 B.Ir=new A.q(!0,B.ya,null,null,null,null,60,B.av,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.KV=new A.iU("\ud83c\udf89 LET'S GOO! \ud83c\udf89",null,B.Ir,null,null)
-B.KW=new A.iU("\ud83d\udc9d Hey Nicole! \ud83d\udc9d",null,null,B.bv,null)
-B.Kz=new A.q(!0,B.jt,null,null,null,null,36,B.av,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.KX=new A.iU("\u2764\ufe0f Happy Valentine's Day! \u2764\ufe0f",null,B.Kz,null,null)
-B.KY=new A.iU("Will you be my Valentine?",null,null,B.bv,null)
+B.KW=new A.iU("\ud83c\udf89 LFGGG! \ud83c\udf89",null,B.Ir,null,null)
 B.Iu=new A.q(!0,B.jm,null,null,null,null,32,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.KZ=new A.iU("I knew you'd say yes, Nicole! \ud83d\udc95",null,B.Iu,B.bv,null)
+B.KX=new A.iU("I knew you'd say yes \ud83d\udc95",null,B.Iu,B.bv,null)
+B.KY=new A.iU("\ud83d\udc9d Hey Nicole! \ud83d\udc9d",null,null,B.bv,null)
+B.KZ=new A.iU("Will you be my Valentine?",null,null,B.bv,null)
 B.Nl=new A.a1H(0,"system")
 B.L_=new A.vz(null)
 B.d9=new A.Fm(0,"clamp")
